@@ -3,25 +3,5 @@
     "x": 1477,
     "y": 1251,
     "path": "images/rlbot.png"
-  },
-  {
-    "x": 1456,
-    "y": 1236,
-    "path": "images/rlgym-bottom.png"
-  },
-  {
-    "x": 1456,
-    "y": 1236,
-    "path": "images/rlgym.png"
-  },
-  {
-    "x": 1339,
-    "y": 522,
-    "path": "images/mecha.png"
-  },
-  {
-    "x": 1339,
-    "y": 522,
-    "path": "images/mecha-full.png"
   }
 ]
