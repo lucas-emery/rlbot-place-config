@@ -1,12 +1,13 @@
 [
-  {
-    "x": 1477,
-    "y": 1251,
-    "path": "images/rlbot.png"
-  },
+  
   {
     "x": 1330,
     "y": 498,
-    "path": "images/rlbot-shaved-left.png"
+    "path": "images/rlbot.png"
+  },
+  {
+    "x": 1477,
+    "y": 1251,
+    "path": "images/rlgym.png"
   }
 ]
