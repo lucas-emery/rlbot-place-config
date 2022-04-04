@@ -5,13 +5,8 @@
     "path": "images/rlbot.png"
   },
   {
-    "x": 1334,
-    "y": 519,
-    "path": "images/rlbot.png"
-  },
-  {
-    "x": 1501,
-    "y": 1251,
+    "x": 1455,
+    "y": 1236,
     "path": "images/rlgym.png"
   }
 ]
