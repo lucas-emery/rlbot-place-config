@@ -4,7 +4,7 @@ from PIL import Image
 
 # RUN THIS BEFORE ADDING AN IMAGE
 
-PATH = 'images/rlbot.png'
+PATH = 'images/aphex.png'
 
 color_map = {
     '#6D001A': 0,
